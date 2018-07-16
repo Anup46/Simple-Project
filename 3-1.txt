@@ -1,0 +1,6 @@
+     Saturday   -> CSE-3107(9am-10am);CSE-3101(10am-11am);CSE-3104(11am-1pm);CSE-3105(2pm-3pm);CSE-3102(4pm-6pm)
+     Sunday     -> CSE-3103(9am-10am);CSE-3101(10am-11am);CSE-3111(11am-12pm);CSE-3105(2pm-3pm);CSE-3109(3pm-4pm)
+     Monday     -> CSE-3103(9am-10am);CSE-3101(10am-11am);CSE-3106(11am-1pm);CSE-3105(2pm-3pm);CSE-3109(3pm-4pm);CSE-3110(4pm-6pm)
+     Tuesday    -> CSE-3107(9am-10am);CSE-3111(10am-11am);CSE-3104(11am-1pm);
+     Wednesday  -> CSE-3103(9am-10am);CSE-3107(10am-11am);CSE-3102(11am-1pm);CSE-3106(2pm-3pm)
+  **N.B: In MONDAY All Class(Except Lab) will be taken in 2nd Academic Building.**

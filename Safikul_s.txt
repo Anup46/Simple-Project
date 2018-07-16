@@ -1,0 +1,2 @@
+   Sunday->    CSE-2211(4pm-6pm);
+   Monday->    CSE-2211(4pm-5pm);

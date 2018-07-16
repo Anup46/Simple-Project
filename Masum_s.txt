@@ -1,0 +1,2 @@
+  Saturday->   CSE-1207(11am-1pm);
+  Tuesday->    CSE-1207(4pm-5pm);

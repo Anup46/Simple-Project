@@ -1,0 +1,5 @@
+     Saturday  ->  CSE-3211(11am-12pm); CSE-2203(12pm-1pm);
+     Sunday    ->  CSE-2203(9am-10am); CSE-4201(10am-11am);
+     Monday    ->  CSE-4202(10am-12pm);
+     Tuesday   ->  CSE-3211(2pm-3pm); CSE-4201(3pm-4pm);
+     Wednesday ->  CSE-2203(9am-10am); CSE-4201(10am-11am);

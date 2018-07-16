@@ -1,0 +1,6 @@
+     Saturday   -> CSE-2201(10am-11am);CSE-2203(12pm-1pm);CSE-2210(3pm-5pm);CSE-2207(5pm-6pm)
+     Sunday     -> CSE-2203(9am-10am);CSE-2201(10am-11am);CSE-2209(12pm-1pm);CSE-2215(2pm-3pm);CSE-2207(3pm-4pm);CSE-2211(4pm-6pm)
+     Monday     -> CSE-2201(9am-10am);CSE-2209(10am-11am);CSE-2208(11am-1pm);CSE-2216(2pm-4pm);CSE-2211(4pm-5pm);CSE-2205(5pm-6pm)
+     Tuesday    -> CSE-2214(8am-10am);CSE-2202(10am-12pm);CSE-2207(12pm-1pm);CSE-2215(2pm-3pm);CSE-2208(3pm-5pm)
+     Wednesday  -> CSE-2203(9am-10am);CSE-2202(10am-12pm);CSE-2205(12pm-1pm);CSE-2206(3pm-5pm)
+  **N.B: In Sunday All Class will be taken in 2nd Academic Building.**

@@ -1,0 +1,6 @@
+     Saturday   -> CSE-3210(9am-11am);CSE-3211(11am-12pm);CSE-3209(12pm-1pm);CSE-3210(2pm-4pm);
+     Sunday     -> CSE-3208(8am-10am);CSE-3203(11am-12am);CSE-3201(12pm-1pm);CSE-3205(2pm-3pm);CSE-3204(3pm-5pm)
+     Monday     -> CSE-3205(10am-11am);CSE-3201(11am-12pm);CSE-3203(12pm-1pm);CSE-3209(2pm-3pm);CSE-3204(3pm-5pm);
+     Tuesday    -> CSE-3203(10am-11am);CSE-3206(11am-1pm);CSE-3211(2pm-3pm);CSE-3202(3pm-5pm)
+     Wednesday  -> CSE-3208(8am-10am);CSE-3201(11am-12pm);
+  **N.B: In Tuesday All Class(Except Lab) will be taken in 2nd Academic Building.**

@@ -1,0 +1,6 @@
+     Saturday   -> CSE-1211(9am-11am);CSE-1207(11am-1pm);CSE-1205(3pm-4pm)
+     Sunday     -> CSE-1204(9am-11am);CSE-1201(12pm-1pm);
+     Monday     -> CSE-1201(8am-10am);CSE-1209(11am-12pm);CSE-1203(12pm-1pm);CSE-1202(2pm-4pm)
+     Tuesday    -> CSE-1209(10am-11am);CSE-1205(11am-1pm);CSE-1202(2pm-4pm);CSE-1207(4pm-5pm)
+     Wednesday  -> CSE-1202(8am-10am);CSE-1211(10am-11am);CSE-1203(11am-1pm);
+  **N.B: In Saturday All Class will be taken in 2nd Academic Building.**

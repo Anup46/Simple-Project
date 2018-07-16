@@ -1,0 +1,5 @@
+     Saturday  ->  CSE-3107(9am-10am); CSE-3104(11am-1pm);
+     Sunday    ->  CSE-3103(9am-10am);
+     Monday    ->  CSE-3103(9am-10am);
+     Tuesday   ->  CSE-3107(9am-10am); CSE-3104(11am-1pm);
+     Wednesday ->  CSE-3103(9am-10am); CSE-3107(10am-11am);
